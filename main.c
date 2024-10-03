@@ -5,4 +5,7 @@ int main() {
     printf("Hello les amis\n");
     int x = move_forward() ;
     return 0;
+
+    int x = move_forward() ;
+    return 0;
 }
